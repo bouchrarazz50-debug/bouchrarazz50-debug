@@ -3,7 +3,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me :
 
 - 💻 Focused on Mobile & Web Development  
 - 📱 Building applications with Flutter  
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack :
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -32,7 +32,3 @@
 
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bouchrarazz50-debug&show_icons=true&theme=default)
